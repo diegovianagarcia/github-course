@@ -1,4 +1,5 @@
 git course
-Modificado o arquivo
 
-Adicionei uma linha em branco e esta linha
+Este é o arquivo readme do curso de git para iniciantes
+
+Disponível em [willianjusten.com](https://willianjusten.com.br)
